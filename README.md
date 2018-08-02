@@ -1,16 +1,13 @@
-# AFDNote
+# Wingy
 
 
-AFDNote is a simple note app
+Wingy is a lightweight proxy developer tool
 
-It is easy to use
+Fully method and protocol are supported
 
-You can record your mind
+Support Proxy HTTP/HTTPS/TCP/UDP
 
-You can record your big event like birthday, loving days
-
-Help record your life
-
+Support Rule based data flow redirect
 
 
 # Contack US
